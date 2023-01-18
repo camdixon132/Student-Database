@@ -1,0 +1,15 @@
+/Users/camerondixon/Projects/StudentDatabase/StudentDatabase/bin/Debug/net7.0/StudentDatabase
+/Users/camerondixon/Projects/StudentDatabase/StudentDatabase/bin/Debug/net7.0/StudentDatabase.deps.json
+/Users/camerondixon/Projects/StudentDatabase/StudentDatabase/bin/Debug/net7.0/StudentDatabase.runtimeconfig.json
+/Users/camerondixon/Projects/StudentDatabase/StudentDatabase/bin/Debug/net7.0/StudentDatabase.dll
+/Users/camerondixon/Projects/StudentDatabase/StudentDatabase/bin/Debug/net7.0/StudentDatabase.pdb
+/Users/camerondixon/Projects/StudentDatabase/StudentDatabase/obj/Debug/net7.0/StudentDatabase.csproj.AssemblyReference.cache
+/Users/camerondixon/Projects/StudentDatabase/StudentDatabase/obj/Debug/net7.0/StudentDatabase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camerondixon/Projects/StudentDatabase/StudentDatabase/obj/Debug/net7.0/StudentDatabase.AssemblyInfoInputs.cache
+/Users/camerondixon/Projects/StudentDatabase/StudentDatabase/obj/Debug/net7.0/StudentDatabase.AssemblyInfo.cs
+/Users/camerondixon/Projects/StudentDatabase/StudentDatabase/obj/Debug/net7.0/StudentDatabase.csproj.CoreCompileInputs.cache
+/Users/camerondixon/Projects/StudentDatabase/StudentDatabase/obj/Debug/net7.0/StudentDatabase.dll
+/Users/camerondixon/Projects/StudentDatabase/StudentDatabase/obj/Debug/net7.0/refint/StudentDatabase.dll
+/Users/camerondixon/Projects/StudentDatabase/StudentDatabase/obj/Debug/net7.0/StudentDatabase.pdb
+/Users/camerondixon/Projects/StudentDatabase/StudentDatabase/obj/Debug/net7.0/StudentDatabase.genruntimeconfig.cache
+/Users/camerondixon/Projects/StudentDatabase/StudentDatabase/obj/Debug/net7.0/ref/StudentDatabase.dll
